@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main-visual {
+	width: 100%;
+	height: 400px;
+	background-image: url(img/mv.jpg);
+	background-size: cover;
+	background-position: bottom;
+}
+.head-line {
+	padding: 20px;
+}
+
+main {
+	width: 840;
+	margin: 50px;
+}
+
+.sarvise1 {
+	margin-bottom: 30px;
+	border-bottom: 1px solid black;
+	padding-bottom: 30px;
+}
+.sarvise2 {
+	margin-bottom: 30px;
+	border-bottom: 1px solid black;
+	padding-bottom: 30px;
+}
+.sarvise3 {
+	margin-bottom: 30px;
+	border-bottom: 1px solid black;
+	padding-bottom: 30px;
+}
+.sarvise4 {
+	margin-bottom: 30px;
+	border-bottom: 1px solid black;
+}
